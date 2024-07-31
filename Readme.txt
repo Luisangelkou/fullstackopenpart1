@@ -4,8 +4,8 @@ Part2 JavaScript 1.3.-1.5.
 
 Part3 Estado del Componente, controladores de eventos
 
-Parte4 Un estado mas complejo, depurando aplicaciones React
+Parte4 Un estado mas complejo, depurando aplicaciones React 
 
-part5 anecdotes
+la parte 4 contiene tambien: anecdotes y complex_state
 
-part6 complex_state
+
