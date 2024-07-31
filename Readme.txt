@@ -8,4 +8,6 @@ Parte4 Un estado mas complejo, depurando aplicaciones React
 
 la parte 4 contiene tambien: anecdotes y complex_state
 
+Classes: contiene en atoms y blocks
+
 
